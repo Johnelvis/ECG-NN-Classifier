@@ -1,6 +1,6 @@
 # ECG-NN-Classifier
 
-Components to train a neural network to classify ecg beats using Keras.
+Components to train a neural network to classify ecg beats using Keras. The dataset used was the [MIT-BIH Arrhythmia Database](https://www.physionet.org/cgi-bin/atm/ATM).
 
 ## Installation
 
